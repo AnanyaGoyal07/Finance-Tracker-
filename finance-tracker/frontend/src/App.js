@@ -87,7 +87,7 @@ function App() {
     <div className="min-h-screen bg-[#FFF9C4] flex flex-col items-center justify-center">
       {/* Title */}
       <h1 className="text-5xl font-extrabold text-center mb-10 font-['Poppins'] tracking-wide drop-shadow-lg">
-        💰 Finance Tracker
+        💰Finance Tracker
       </h1>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-6xl items-start justify-items-center">
